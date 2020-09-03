@@ -1,3 +1,22 @@
-# JSCasts ep16
+## Starting the app
 
-This is the repo of a project created during the JSCast ep16: https://youtu.be/n0IuXnL_cWs
+First install all dependencies
+
+```
+yarn install
+```
+
+Make sure you have all env variables set up (read previous paragraph).
+
+Then create postgres database and run migrations:
+
+```
+yarn run sequelize db:create
+yarn run sequelize db:migrate
+```
+
+In the end you can launch the app
+
+```
+yarn start
+```
