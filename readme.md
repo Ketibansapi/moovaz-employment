@@ -4,10 +4,6 @@
 
 Design and develop simple web based system which allows users to enter company and employee information, edit and delete them as necessary.
 
-## Demo
-
-
-
 ## Entity details
 
 Company entity:
@@ -81,3 +77,19 @@ In the end you can launch the app
 ```
 yarn start
 ```
+
+## Demo
+
+![moovaz demo](https://user-images.githubusercontent.com/42229194/92333777-49218580-f0b2-11ea-904a-a0f5b511eae1.gif)
+
+## Additional screenshots
+
+
+
+## License
+
+Application is [MIT licensed](./LICENSE).
+
+## Contribute
+
+Special thanks to Adminbro for the front styling.
