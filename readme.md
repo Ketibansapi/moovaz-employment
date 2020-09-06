@@ -46,13 +46,17 @@ Employee entity:
 ## Technologies requirements
 
 NodeJS 
+
 PostgreSQL
+
 Responsive UI framework (Reponsive UI will scale base on screen resolution to fit into mobile screens)
+
 Proper data listings with search filters, sorting and pagination
 
 ## Accessable
 
 IE 10+, Chrome, Firefox, Safari
+
 Native browsers on - iOS 8+, Android 4.x, Windows Phone 8+
 
 ## Starting the app
