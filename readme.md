@@ -81,8 +81,8 @@ yarn start
 ## Sample user
 
 ```
-email:admin@example.com
-password:12345678
+email: admin@example.com
+password: 12345678
 ```
 
 ## Demo
