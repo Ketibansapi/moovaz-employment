@@ -78,6 +78,13 @@ In the end you can launch the app
 yarn start
 ```
 
+## Sample user
+
+```
+email:admin@example.com
+password:12345678
+```
+
 ## Demo
 
 ![moovaz demo](https://user-images.githubusercontent.com/42229194/92333777-49218580-f0b2-11ea-904a-a0f5b511eae1.gif)
